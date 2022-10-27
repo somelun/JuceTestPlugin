@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="GO3bJc" name="TestPlugin" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
-              cppLanguageStandard="17" pluginFormats="buildVST3">
+              cppLanguageStandard="17" pluginFormats="buildStandalone,buildVST3">
   <MAINGROUP id="BDoT4G" name="TestPlugin">
     <GROUP id="{A36CDB58-C437-9460-8AC3-C698F08068A2}" name="Source">
       <FILE id="gQEWz1" name="PluginProcessor.cpp" compile="1" resource="0"
